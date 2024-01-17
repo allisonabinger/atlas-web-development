@@ -2,8 +2,7 @@
   <img src="firefly.png" alt="drawing" width="100"/>
 </p>
 
-
-# Atlas - Web Development - Advanced HTML            
+## Atlas - Web Development - Advanced HTML            
 ***
 
 ## Overview
