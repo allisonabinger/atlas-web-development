@@ -34,9 +34,9 @@ The following are examples of some of the tags and elements used in this project
 #### Header
 The `<header>` element is used to define a header section, typically containing introductory content or navigation links.
 
-> `<header>`
-> 	`Welcome to the Site!`
-> `</header>`
+>> `<header>`
+>> 	`Welcome to the Site!`
+>> `</header>`
 &nbsp;
 
 #### Main
@@ -67,7 +67,7 @@ The `<div>` element is used as a generic container that can be used to group oth
 > `</div>`
 
 > `<div class="video-block">`
-> 		`// containerized content`relating to videos
+> 		`// containerized content relating to videos
 > `</div>`
 &nbsp;
 
