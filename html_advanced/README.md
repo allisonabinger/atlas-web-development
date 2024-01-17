@@ -1,5 +1,4 @@
-# Atlas - Web Development - Advanced HTML
-![firefly](firefly.png)
+# Atlas - Web Development - Advanced HTML <img src="firefly.png", width="100", height="100">
 ***
 
 ## Overview
