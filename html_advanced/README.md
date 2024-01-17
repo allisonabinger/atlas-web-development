@@ -1,5 +1,5 @@
 # Atlas - Web Development - Advanced HTML
-!(firefly.png)
+![firefly](firefly.png)
 ***
 
 ## Overview
