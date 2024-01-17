@@ -1,4 +1,5 @@
 # Atlas - Web Development - Advanced HTML
+!(firefly.png)
 ***
 
 ## Overview
