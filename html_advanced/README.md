@@ -17,7 +17,7 @@ HTML stands for Hypertext Markup Language. It is the standard language used to c
 &nbsp;
 
 ### Elements/Tags
-In HTML, elements are the building blocks of the web page, and tags are used to define these elements. Elements consist of an opening <tag> and a closing </tag>.
+In HTML, elements are the building blocks of the web page, and tags are used to define these elements. Elements consist of an opening `<tag>` and a closing `</tag>`.
 &nbsp;
 
 ### Attributes
@@ -25,14 +25,14 @@ Attributes provide additional information about HTML elements. They are always i
 &nbsp;
 
 ### Purpose of HTML Tags
-Every HTML tag serves a specific purpose that contributes to the overall structure and appearance of a web page. This project explores tags such as <div>, <blockquote>, <img>, and <a>, and highlights their unique roles in creating a cohesive and (somewhat, I miss you CSS!) visually appealing web page.
+Every HTML tag serves a specific purpose that contributes to the overall structure and appearance of a web page. This project explores tags such as `<div>`, `<blockquote>`, `<img>`, and `<a>`, and highlights their unique roles in creating a cohesive and (somewhat, I miss you CSS!) visually appealing web page.
 
 ### How I used HTML!
 The following are examples of some of the tags and elements used in this project.
 
 
 #### Header
-The <header> element is used to define a header section, typically containing introductory content or navigation links.
+The `<header>` element is used to define a header section, typically containing introductory content or navigation links.
 
 > `<header>`
 > 	`Welcome to the Site!`
@@ -40,7 +40,7 @@ The <header> element is used to define a header section, typically containing in
 &nbsp;
 
 #### Main
-The <main> element is used to represent the main content of an HTML document. It excludes the content that is repeated across multiple pages, like headers and footers.
+The `<main>` element is used to represent the main content of an HTML document. It excludes the content that is repeated across multiple pages, like headers and footers.
 
 > `<main>`
 > 		`// main block of website`
@@ -48,7 +48,7 @@ The <main> element is used to represent the main content of an HTML document. It
 &nbsp;
 
 #### Section
-The <section> element defines a section in an HTML document. It's typically used to group related content together.
+The `<section>` element defines a section in an HTML document. It's typically used to group related content together.
 
 > `<section>`
 > 		`// section 1`
@@ -60,7 +60,7 @@ The <section> element defines a section in an HTML document. It's typically used
 &nbsp;
 
 #### div
-The <div> element is used as a generic container that can be used to group other HTML elements for styling or layout purposes. You'll find that I assigned classes to divs to group them together, which can be used to styling later on.
+The `<div>` element is used as a generic container that can be used to group other HTML elements for styling or layout purposes. You'll find that I assigned classes to divs to group them together, which can be used to styling later on.
 
 > `<div>`
 > 		`// containerized content`
