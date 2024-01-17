@@ -1,4 +1,7 @@
-# Atlas - Web Development - Advanced HTML            <img src="firefly.png" alt="drawing" width="100"/>
+<p align="center">
+  <img src="firefly.png" alt="drawing" width="100"/>
+</p>
+# Atlas - Web Development - Advanced HTML            
 ***
 
 ## Overview
