@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="firefly.png" alt="drawing" width="100"/>
+  <img src="atlasfirefly.png" alt="drawing" width="100"/>
 </p>
 
 ## Atlas - Web Development - Advanced HTML            
